@@ -1,4 +1,10 @@
 # Examen 1 Grupparbete - Grupp 10
+## Gruppen
+Ihab Abdul Satar Hussein
+Caspar Leonardsson
+Anas Toumeh
+Yassin Lindblad
+Louie Al-Saffar
 
 ## Examination 1 (Eventsidan) :
     1. Hero — namn, bild/logotyp, datum, plats, kort beskrivning
