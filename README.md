@@ -1,9 +1,7 @@
 # Examen 1 Grupparbete - Grupp 10
 ## Gruppen
 Ihab Abdul Satar Hussein,
-Caspar Leonardsson,
-Anas Toumeh,
-Yassin Lindblad,
+Johan Svensson,
 Louie Al-Saffar
 
 ## Examination 1 (Eventsidan) :
